@@ -55,6 +55,7 @@ export default {
     ),
     search: true,
     footer: true,
+    footerEditOnGitHubLink: false,
     footerText: <>Made with ❤️ {new Date().getFullYear()} © Kristoff.</>,
     unstable_faviconGlyph: '🚀',
 }
