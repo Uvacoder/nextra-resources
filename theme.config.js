@@ -55,6 +55,8 @@ export default {
 
     ),
     search: true,
+    nextLinks: false,
+    prevLinks: false,
     footerEditLink: false,
     footer: true,
     footerText: <>Made with ❤️ {new Date().getFullYear()} © Kristoff.</>,
