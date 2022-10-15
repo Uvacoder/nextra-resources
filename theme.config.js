@@ -55,7 +55,7 @@ export default {
     ),
     search: true,
     footer: true,
-    footerEditOnGitHubLink: false,
+    editLink: { component: null },
     footerText: <>Made with ❤️ {new Date().getFullYear()} © Kristoff.</>,
     unstable_faviconGlyph: '🚀',
 }
