@@ -52,10 +52,11 @@ export default {
             />
             <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
         </>
+
     ),
     search: true,
+    footerEditLink: false,
     footer: true,
-    editLink: { component: null },
     footerText: <>Made with ❤️ {new Date().getFullYear()} © Kristoff.</>,
     unstable_faviconGlyph: '🚀',
 }
