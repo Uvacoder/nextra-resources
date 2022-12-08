@@ -1,4 +1,7 @@
 export default {
+
+    font : false,
+
     github: 'https://github.com/chrystalio',
     titleSuffix: ' – Kristoff Space',
     logo: (
