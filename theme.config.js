@@ -1,7 +1,5 @@
 export default {
-
-    font : false,
-
+    font : true,
     github: 'https://github.com/chrystalio',
     titleSuffix: ' – Kristoff Space',
     logo: (
@@ -16,7 +14,7 @@ export default {
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
             <meta httpEquiv="Content-Language" content="en"/>
             <meta name="description" content="Welcome to my website"/>
-            <meta name="og:description" content="Nextra: the Next.js site builder"/>
+            {/*<meta name="og:description" content="Nextra: the Next.js site builder"/>*/}
             <meta name="twitter:card" content="summary_large_image"/>
             {/*<meta name="twitter:image" content="https://nextra.vercel.app/og.png"/>*/}
             {/*<meta name="twitter:site:domain" content="nextra.vercel.app"/>*/}
